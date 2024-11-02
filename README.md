@@ -11,13 +11,14 @@ This course offers strategies and techniques for designing, creating, and intera
 https://www.w3schools.com/sql/
 
 # Images
-![Database Design Overview](sql.png)
+![image](https://github.com/user-attachments/assets/29cdf86e-6148-4d35-9780-aed092322366)
+
 
 ***Notice:*** This repository focuses on best practices for database design and development. It's strongly encouraged to familiarize yourself with both SQL and NoSQL concepts to make the most of the resources available.
 
 
 
-# Examples of SQL Comands
+# Examples of SQL Commands:
 
 -- 1 
 -- A 
