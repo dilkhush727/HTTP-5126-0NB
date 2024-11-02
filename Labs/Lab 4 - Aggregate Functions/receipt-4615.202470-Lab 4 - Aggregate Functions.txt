@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: 4615.202470, Database Design & Development - HTTP-5126-0NB
+Assessment: Lab 4 - Aggregate Functions
+
+Submission date: 10/1/24, 2:12 PM (Late)
+Submission size: 2.1 KB
+Submitter: Dilkhush Yadav
+Confirmation number: 433a3f12cb3144cb94178c92556304c0
